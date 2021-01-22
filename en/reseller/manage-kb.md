@@ -143,7 +143,7 @@ When changes have been committed to the `master` branch of your repository, a sy
 # Broken
 
 ```
-\![User access control chart](/assets/rbac-roles-chart-en.png)
+![User access control chart](/assets/rbac-roles-chart-en.png)
 ```
 
 Other knowledge base articles can be referenced as a regular link.  Use a relative path to reference an article in another category:
